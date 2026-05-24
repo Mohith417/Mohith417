@@ -1,12 +1,5 @@
 <h1 align="center">👋 Hi, I'm A Mohith Santosh</h1>
 
-<p align="center">
-  <img src=" https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Student;Modern+Web+Developer;Tech+Enthusiast;&center=true&size=30 " alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src=" https://komarev.com/ghpvc/?username=Mohith417 " alt="Profile views" />
-</p>
 
 ---
 
