@@ -5,7 +5,7 @@
 
 ## 📖 About Me
 
-I'm a passionate Full Stack Developer with 2 years of experience in building scalable applications. I thrive in environments where I can learn modern technologies and contribute to open-source projects. With an enthusiasm for continuous learning, I am always exploring the latest advancements in software development.
+I'm a passionate Full Stack Developer with experience in building scalable applications. I thrive in environments where I can learn modern technologies and contribute to open-source projects. With an enthusiasm for continuous learning, I am always exploring the latest advancements in software development.
 
 - 💻 I love coding with JavaScript and TypeScript!
 - 🚀 I'm currently diving deep into React and Next.js!
