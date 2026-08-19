@@ -90,7 +90,7 @@ I'm a passionate Full Stack Developer who loves building scalable, real-world ap
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohith417&theme=tokyonight&no-frame=true&margin-w=8&column=7" alt="GitHub Trophies" />
+  <img src="https://trophy.benkou.dev/?username=Mohith417&theme=tokyonight&no-frame=true&margin-w=8&column=-1" alt="GitHub Trophies" />
 </p>
 
 ---
