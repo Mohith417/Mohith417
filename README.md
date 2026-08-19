@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Mohith417.png" alt="Mohith Santosh" width="130" />
+</p>
+
 <h1 align="center">Hi, I'm A Mohith Santosh 👋</h1>
 
 <p align="center">
