@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/a-mohith-santosh-10b170357/">
+  <a href="https://www.linkedin.com/in/a-mohith-santosh-10b170357/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Mohith417">
+  <a href="https://github.com/Mohith417" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/mohith_417/">
+  <a href="https://www.instagram.com/mohith_417/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
@@ -72,13 +72,17 @@ I'm a passionate Full Stack Developer who loves building scalable, real-world ap
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohith417&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="180" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohith417&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Mohith417&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mohith417&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Mohith417&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohith417&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -86,7 +90,7 @@ I'm a passionate Full Stack Developer who loves building scalable, real-world ap
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohith417&theme=tokyonight&no-frame=true&column=7&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohith417&theme=tokyonight&no-frame=true&margin-w=8&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
