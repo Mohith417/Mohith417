@@ -1,24 +1,25 @@
-<p align="center">
-  <img src="https://github.com/Mohith417.png" alt="Mohith Santosh" width="130" />
-</p>
-
-<h1 align="center">Hi, I'm A Mohith Santosh 👋</h1>
-
-<p align="center">
-  <em>Full Stack Developer &nbsp;·&nbsp; Open Source Enthusiast &nbsp;·&nbsp; Lifelong Learner</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/a-mohith-santosh-10b170357/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Mohith417" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/mohith_417/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="middle" width="150">
+      <img src="https://github.com/Mohith417.png" alt="Mohith Santosh" width="140" style="border-radius:50%;" />
+    </td>
+    <td valign="middle">
+      <h1>Hi, I'm A Mohith Santosh 👋</h1>
+      <p><em>Full Stack Developer &nbsp;·&nbsp; Open Source Enthusiast &nbsp;·&nbsp; Lifelong Learner</em></p>
+      <p>
+        <a href="https://www.linkedin.com/in/a-mohith-santosh-10b170357/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <a href="https://github.com/Mohith417" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+        <a href="https://www.instagram.com/mohith_417/" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
