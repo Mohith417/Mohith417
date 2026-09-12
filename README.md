@@ -72,10 +72,9 @@ I'm a passionate Full Stack Developer who loves building scalable, real-world ap
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohith417&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohith417&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohith417&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
 </div>
 
 <div align="center">
@@ -87,7 +86,11 @@ I'm a passionate Full Stack Developer who loves building scalable, real-world ap
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohith417&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohith417/Mohith417/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohith417/Mohith417/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Mohith417/Mohith417/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 ---
