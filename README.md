@@ -71,14 +71,17 @@ I'm a passionate Full Stack Developer who loves building scalable, real-world ap
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohith417&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohith417&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
+## 📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mohith417&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+![Commits](https://img.shields.io/badge/Total%20Commits-33-brightgreen?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/Stars-0-yellow?style=for-the-badge&logo=github)
+![PRs](https://img.shields.io/badge/PRs-0-blue?style=for-the-badge&logo=github)
+![Contributions](https://img.shields.io/badge/Contributions-38-orange?style=for-the-badge&logo=github)
+
 </div>
 
 ---
