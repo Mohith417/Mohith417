@@ -71,16 +71,19 @@ I'm a passionate Full Stack Developer who loves building scalable, real-world ap
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
 <div align="center">
 
 ![Commits](https://img.shields.io/badge/Total%20Commits-33-brightgreen?style=for-the-badge&logo=github)
+&nbsp;
 ![Stars](https://img.shields.io/badge/Stars-0-yellow?style=for-the-badge&logo=github)
+&nbsp;
 ![PRs](https://img.shields.io/badge/PRs-0-blue?style=for-the-badge&logo=github)
+&nbsp;
 ![Contributions](https://img.shields.io/badge/Contributions-38-orange?style=for-the-badge&logo=github)
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Mohith417&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -98,10 +101,18 @@ I'm a passionate Full Stack Developer who loves building scalable, real-world ap
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohith417&theme=tokyonight&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+
+![First Commit](https://img.shields.io/badge/🎯%20First%20Commit-Achieved-gold?style=for-the-badge)
+&nbsp;
+![Open Source](https://img.shields.io/badge/🌱%20Open%20Source-Active-brightgreen?style=for-the-badge)
+&nbsp;
+![Full Stack](https://img.shields.io/badge/💻%20Full%20Stack-Developer-blue?style=for-the-badge)
+&nbsp;
+![Lifelong Learner](https://img.shields.io/badge/📚%20Lifelong-Learner-purple?style=for-the-badge)
+
 </div>
 
 ---
