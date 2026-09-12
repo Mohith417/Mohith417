@@ -1,25 +1,20 @@
-<table>
-  <tr>
-    <td valign="middle" width="150">
-      <img src="https://github.com/Mohith417.png" alt="Mohith Santosh" width="140" style="border-radius:50%;" />
-    </td>
-    <td valign="middle">
-      <h1>Hi, I'm A Mohith Santosh 👋</h1>
-      <p><em>Full Stack Developer &nbsp;·&nbsp; Open Source Enthusiast &nbsp;·&nbsp; Lifelong Learner</em></p>
-      <p>
-        <a href="https://www.linkedin.com/in/a-mohith-santosh-10b170357/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        <a href="https://github.com/Mohith417" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-        <a href="https://www.instagram.com/mohith_417/" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github.com/Mohith417.png" width="120" style="border-radius: 50%;" alt="Mohith Santosh"/>
+  <h1>Hi, I'm A Mohith Santosh 👋</h1>
+  <p><em>Full Stack Developer &nbsp;·&nbsp; Open Source Enthusiast &nbsp;·&nbsp; Lifelong Learner</em></p>
+
+  <a href="https://www.linkedin.com/in/a-mohith-santosh-10b170357/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Mohith417" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/mohith_417/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
 
 ---
 
@@ -65,6 +60,7 @@ I'm a passionate Full Stack Developer who loves building scalable, real-world ap
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ### 🔧 Tools & Platforms
 
@@ -76,28 +72,36 @@ I'm a passionate Full Stack Developer who loves building scalable, real-world ap
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Mohith417&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohith417&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mohith417&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohith417&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mohith417&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Mohith417&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohith417&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohith417&theme=tokyo-night&hide_border=true&area=true&custom_title=Mohith417's%20Contribution%20Graph" alt="Contribution Graph" width="100%"/>
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://trophy.benkou.dev/?username=Mohith417&theme=tokyonight&no-frame=true&margin-w=8&column=-1" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohith417&theme=tokyonight&no-frame=true&margin-w=8&column=7&no-bg=true" alt="GitHub Trophies"/>
+</div>
 
 ---
 
-<p align="center">Made with ❤️ by <strong>A Mohith Santosh</strong></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohith417&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <br/><br/>
+  <p>Made with ❤️ by <strong>A Mohith Santosh</strong></p>
+</div>
